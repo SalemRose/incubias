@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/creatures/wiki-creature/"}
 ---
 
- [[Creatures/incubii\|incubii]]
+ [[Creatures/incubii\|Incubii]]
  
- [[Creatures/succubii\|succubii]]
+ [[Creatures/succubii\|Succubii]]
+ 
 
 
 
