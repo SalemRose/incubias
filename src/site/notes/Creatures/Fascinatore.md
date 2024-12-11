@@ -45,9 +45,9 @@
 >>Questa miscela di reverenza, ossessione e parafilia è stato riscontrato - purtroppo - anche nei confronti di soggetti deceduti.
 >>I pochi ricercatori in grado di svolgere quantomeno il minimo sindacale dei propri doveri su di un membro del gruppo F. si sono Limitati a vaghe descrizioni fisiche nel caso di soggetti deceduti ed interrogatori che finivano inevitabilmente col diventare sempre più colloquiali ed amichevoli con l’avanzare del tempo.
 >>Quello che è noto dell’anatomia del gruppo F. È che può essere alterata almeno parzialmente dalla volontà del soggetto, dettagli grossolani come statura, dimensioni e tipo di tratti sessuali primari e secondari, massa corporea, corporatura o colore della pelle possono essere alterati nei confini dello spettro in cui si muovono quelli del gruppo Homo, il colore di occhi, capelli ed unghie è invece inalterabile, se non tramite metodi esterni (tinte, smalti, lenti a contatto).
->>Elemento di interesse generale è che i soggetti deceduti perdono la propria pigmentazione umanoide a favore di un colore prossimo al grigio lavanda , questo lascia supporre che la colorazione palesata da vivi sia una forma di mimetismo sociale simile - se non per meccanismo, per principio - a quello osservato nei polpi
+>>Elemento di interesse generale è che i soggetti deceduti perdono la propria pigmentazione umanoide a favore di un colore prossimo al grigio lavanda  , questo lascia supporre che la colorazione palesata da vivi sia una forma di mimetismo sociale simile - se non per meccanismo, per principio - a quello osservato nei polpi
 
-
+![IMG_0012.jpg](/img/user/IMG_0012.jpg)
 
 > [!NOTE] BIOLOGIA
 >>I meccanismi riproduttivi sono abbastanza ignoti, la stragrande maggioranza dei soggetti risponde in maniera criptica oppure offre “dimostrazioni pratiche” quando inquisita a riguardo.
