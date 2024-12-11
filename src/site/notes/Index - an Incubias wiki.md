@@ -3,4 +3,4 @@
 ---
 
 [[Creatures/Wiki - Creature\|Wiki - Creature]]
-[[Characters/Wiki - characters\|Wiki - characters]]
+[[Characters/Wiki - characters\|Wiki - Characters]]
