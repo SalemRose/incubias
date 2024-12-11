@@ -4,7 +4,7 @@
 
  [[Creatures/incubii\|Incubii]]
  
- [[Creatures/succubii\|Succubii]]
+ [[Creatures/Succubii\|Succubii]]
  
 
 
