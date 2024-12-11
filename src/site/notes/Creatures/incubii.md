@@ -29,8 +29,8 @@
 | [Sottofamiglia](https://it.wikipedia.org/wiki/Sottofamiglia "Sottofamiglia")                           | Fascinatorinæ                                                                         |
 | [Tribù](https://it.wikipedia.org/wiki/Trib%C3%B9_(tassonomia) "Tribù (tassonomia)")                    | Fascinatorini                                                                         |
 | [Sottotribù](https://it.wikipedia.org/wiki/Sottotrib%C3%B9 "Sottotribù")                               | Fascinatora                                                                           |
-| [Genere](https://it.wikipedia.org/wiki/Genere_(tassonomia) "Genere (tassonomia)")                      | #Fascinatore                                                                          |
-| [Specie](https://it.wikipedia.org/wiki/Specie "Specie")                                                | F. #Incubensi                                                                         |
+| [Genere](https://it.wikipedia.org/wiki/Genere_(tassonomia) "Genere (tassonomia)")                      | Fascinatore                                                                           |
+| [Specie](https://it.wikipedia.org/wiki/Specie "Specie")                                                | F. Incubensi                                                                          |
 
 > [!NOTE] DISAMBIGUA
 > *I membri del genere “Fascinatore” hanno differenze puramente fenotipiche, indotte dalla differenza comportamentale e dalle tradizioni sessuali, hanno notazione specifica differente a causa della grossa differenza temporale nella catalogazione di uno o dell’altro.*
