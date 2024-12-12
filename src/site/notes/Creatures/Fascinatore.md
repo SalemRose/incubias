@@ -47,23 +47,38 @@
 >>Quello che è noto dell’anatomia del gruppo F. È che può essere alterata almeno parzialmente dalla volontà del soggetto, dettagli grossolani come statura, dimensioni e tipo di tratti sessuali primari e secondari, massa corporea, corporatura o colore della pelle possono essere alterati nei confini dello spettro in cui si muovono quelli del gruppo Homo, il colore di occhi, capelli ed unghie è invece inalterabile, se non tramite metodi esterni (tinte, smalti, lenti a contatto).
 >>Elemento di interesse generale è che i soggetti deceduti perdono la propria pigmentazione umanoide a favore di un colore prossimo al grigio lavanda  , questo lascia supporre che la colorazione palesata da vivi sia una forma di mimetismo sociale simile - se non per meccanismo, per principio - a quello osservato nei polpi
 
-![IMG_0012.jpg](/img/user/IMG_0012.jpg)
+![[IMG_0012.jpg\|IMG_0012.jpg]]
 
 > [!NOTE] BIOLOGIA
 >>I meccanismi riproduttivi sono abbastanza ignoti, la stragrande maggioranza dei soggetti risponde in maniera criptica oppure offre “dimostrazioni pratiche” quando inquisita a riguardo.
 >>L’argomento di cui si hanno più informazioni disponibili è la loro alimentazione e la loro dieta, sono fondamentalmente onnivori, dotati di un metabolismo particolarmente lento ma egualmente incerimonioso, se lasciati senza accesso al cibo nel momento in cui ne hanno bisogno cominciano a deperire rapidamente, questo è compensato dal fatto che hanno - a tutti gli effetti - bisogno di ingerire un pasto particolarmente abbondante approssimativamente con intervalli di 3 settimane.
->>Questa forma di sostentamento da sola tende a non essere sufficiente per garantirne la sopravvivenza, la necessità di vicinanza verso larghi gruppi di persone, la convivenza con esse e le interazioni sessuali sembrano essere parte della loro “dieta”, i soggetti intervistati (che, di nuovo, purtroppo non sono abbastanza per darci un valore statistico) hanno descritto questa necessità come “Il nutrirsi del residuo, della scia, del delicato campo elettrico emesso da tutti, che diventa più forte durante “certe” interazioni”.
-
-> [!NOTE] CAPACITÀ ANOMALE
->> Le capacità anomale 
+>>Questa forma di sostentamento da sola tende a non essere sufficiente per garantirne la sopravvivenza, la necessità di vicinanza verso larghi gruppi di persone, la convivenza con esse e le interazioni sessuali sembrano essere parte della loro “dieta”, i soggetti intervistati (che, di nuovo, purtroppo non sono abbastanza per darci un valore statistico) hanno descritto questa necessità come “Il nutrirsi del residuo, della scia, del delicato campo elettrico emesso da tutti, che diventa più forte durante “certe” interazioni”. 
 
 > [!NOTE] SOCIETA
 > > Contents
 
 > [!NOTE] CULTURA
 >> Contrario all’opinione comune la cultura dei membri del gruppo F. fa molto affidamento sul concetto di consenso, nelle loro interazioni volontarie con gli esseri umani le loro emanazioni anomale possono facilitare interazioni sessuali ma mai causarle, questo vuol dire, in termini semplici, che nessuna interazione sessuale con loro avviene contro la volontà dell’umano in questione.
->> Questo non vale per altre interazioni sociali, La fascinazione volontaria da parte di un membro del gruppo F. È uno strumento molto potente di manipolazione sociale, con un tasso di successo molto alto, soprattutto se determinati elementi secondari sono soddisfatti (piacere al bersaglio)
+>> Questo non vale per altre interazioni sociali, La fascinazione volontaria da parte di un membro del gruppo F. È uno strumento molto potente di manipolazione sociale, con un tasso di successo molto alto, soprattutto se determinati elementi secondari sono soddisfatti, un esempio di questi sono:
+>> - Soddisfare la preferenza fenotipica del bersaglio.
+>> - Soddisfare la preferenza comportamentale del bersaglio.
+>> - Condividere interessi con il bersaglio.
+>> - Soddisfare la corporatura del bersaglio.
+>> - etc…
+>> 
+>>è interessante notare come le differenze culturali fra i soggetti appartenenti al sottogruppo Incubii e Succubii portino a differenziazioni fenotipiche molto specifiche, non diverse nella loro natura e principio fondamentale da quelle che possono essere notate in esemplari di Amphirion Percula (pesce pagliaccio), Callinectes sapidus (granchio reale blu) ed alcune specie di rane tropicali, la differenza fondamentale fra le specie menzionate ed i due fenotipi del genere F. È che le prime mostrano questi cambiamenti in risposta alla necessità di propagare la specie (scarsità di soggetti maschili o femminili nel gruppo), mentre nel genere F. Queste differenze si manifestano in risposta alla tradizione sessuale del soggetto.
 
+> [!NOTE] Fenotipo Incubii
+>> Contents
+
+  > [!NOTE] Capacità anomale
+  >> Contents
+
+> [!NOTE] Fenotipo Succubii
+>> Contents
+
+> [!NOTE] Title
+>> Contents
 
 List of:
 #lith 
