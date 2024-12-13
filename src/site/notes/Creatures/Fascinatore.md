@@ -47,7 +47,7 @@
 >>Quello che è noto dell’anatomia del gruppo F. È che può essere alterata almeno parzialmente dalla volontà del soggetto, dettagli grossolani come statura, dimensioni e tipo di tratti sessuali primari e secondari, massa corporea, corporatura o colore della pelle possono essere alterati nei confini dello spettro in cui si muovono quelli del gruppo Homo, il colore di occhi, capelli ed unghie è invece inalterabile, se non tramite metodi esterni (tinte, smalti, lenti a contatto).
 >>Elemento di interesse generale è che i soggetti deceduti perdono la propria pigmentazione umanoide a favore di un colore prossimo al grigio lavanda  , questo lascia supporre che la colorazione palesata da vivi sia una forma di mimetismo sociale simile - se non per meccanismo, per principio - a quello osservato nei polpi
 
-![[IMG_0012.jpg\|IMG_0012.jpg]]
+![IMG_0012.jpg](/img/user/IMG_0012.jpg)
 
 > [!NOTE] BIOLOGIA
 >>I meccanismi riproduttivi sono abbastanza ignoti, la stragrande maggioranza dei soggetti risponde in maniera criptica oppure offre “dimostrazioni pratiche” quando inquisita a riguardo.
@@ -69,13 +69,21 @@
 >>è interessante notare come le differenze culturali fra i soggetti appartenenti al sottogruppo Incubii e Succubii portino a differenziazioni fenotipiche molto specifiche, non diverse nella loro natura e principio fondamentale da quelle che possono essere notate in esemplari di Amphirion Percula (pesce pagliaccio), Callinectes sapidus (granchio reale blu) ed alcune specie di rane tropicali, la differenza fondamentale fra le specie menzionate ed i due fenotipi del genere F. È che le prime mostrano questi cambiamenti in risposta alla necessità di propagare la specie (scarsità di soggetti maschili o femminili nel gruppo), mentre nel genere F. Queste differenze si manifestano in risposta alla tradizione sessuale del soggetto.
 
 > [!NOTE] Fenotipo Incubii
->> Contents
+>> Incubii, dal Latino “Incubare”: stare sopra, per tradizione sessuale: dominante, un “top”.
+>> Basandoci sull’aspetto dei soggetti deceduti: Tendono tipicamente ad avere una corporatura più solida rispetto alle controparti, statuaria quasi.
+>>  Un colorito più prossimo al grigio sulla scala mostrata precedentemente, visibili striature più sature di pigmentazione, simili alle linee di Blaschko.
+>>  Coda lunga fra 1 - 1.5 volte la lunghezza del corpo, con punta di forma flabellata, sagittata, cordata o astata, potenzialmente prensile a giudicare dai fasci muscolari percepiti per palpazione.
+>> Dentatura leggermente prominente e moderatamente affilata.
 
   > [!NOTE] Capacità anomale
-  >> Contents
+  >> 
 
 > [!NOTE] Fenotipo Succubii
->> Contents
+>>Incubii, dal Latino “Incubare”: stare sotto, per tradizione sessuale: sottomesso, un “sub”.
+>> Basandoci sull’aspetto dei soggetti deceduti: Tendono tipicamente ad avere una corporatura più liscia, morbida,  rispetto alle controparti, accogliente.
+>>  Un colorito più prossimo al grigulla scala mostrata precedentemente, visibili striature più sature di pigmentazione, simili alle linee di Blaschko.
+>>  Coda lunga fra 1 - 1.5 volte la lunghezza del corpo, con punta di forma flabellata, sagittata, cordata o astata, potenzialmente prensile a giudicare dai fasci muscolari percepiti per palpazione.
+>> Dentatura leggermente prominente e moderatamente affilata.
 
 > [!NOTE] Title
 >> Contents
