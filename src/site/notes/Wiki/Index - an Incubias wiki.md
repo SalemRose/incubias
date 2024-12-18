@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/wiki/index-an-incubias-wiki/","tags":["gardenEntry"]}
 ---
 
-[[Wiki/Wiki - Creature\|Wiki - Creature]]
-[[Wiki/Wiki - characters\|Wiki - Characters]]
-
+[[Wiki/Wiki - Creatures\|Creatures]]
+[[Wiki/Wiki - characters\|Persone di interesse]]
+[[Ouroboros - gruppo di ricerca\|Ouroboros - gruppo di ricerca]]
 
 
 > [!NOTE]Sugli eventi recenti, siete sulla MIA wiki accademica quindi vi tocca leggere anche le mie opinioni, odiatemi, io vincerò comunque>
