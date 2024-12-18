@@ -3,19 +3,28 @@
 ---
 
 
- 
+|                       |     |
+| --------------------- | --- |
+| Nome Completo         |     |
+| Alias                 |     |
+| Data di nascita       |     |
+| Luogo di nascita      |     |
+| Identità sessuale     |     |
+| Orientamento sessuale |     |
+| Identità di genere    |     |
+| SAAN                  |     |
+| Specie                |     |
+| Professione           |     |
 
-| Razza           | Incubus               |
-| --------------- | --------------------- |
-| Sesso           | si                    |
-| gender          | si                    |
-| status          | in cerca di una preda | data di nascita | 13/apr/???            |
-| or. Sessuale    | SI                    |
 
+# BACKGROUND
 
+#  INTERESSI
 
+# PASSIONI
 
+# RELAZIONI
 
-
-Quota: “Meglio essere un peccatore in buona fede, che un religioso in cattiva”
+# QUOTE
+“Definisci peccaminosa la mia natura, guardati allo specchio e poi ripeti”
 

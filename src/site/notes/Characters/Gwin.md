@@ -3,36 +3,27 @@
 ---
 
 
-|                 |                   |
-| --------------- | ----------------- |
-| Razza           | H.S.Sapiens       |
-| SAB             | Fem               |
-| G.Id            | Cis               |
-| O. Sessuale     | Asex              |
-| Status          | scrivendo la wiki |
-| Data di nascita | ??/??/????        |
-
---- start-multi-column: ID_brh7
-```column-settings
-Number of Columns: 2
-Largest Column: standard
-```
-
-1
-
---- column-break ---
-
-2
-
---- end-multi-column
+|                       |                           |
+| --------------------- | ------------------------- |
+| Nome Completo         | Gwinevere Wolfe           |
+| Alias                 | Gwin, LordGwinFammeNaSega |
+| Data di nascita       | 26/02/1990                |
+| Luogo di nascita      |                           |
+| Identità sessuale     | -                         |
+| Orientamento sessuale | –                         |
+| Identità di genere    | —                         |
+| SAAN                  | Fem                       |
+| Specie                | Hum                       |
+| Professione           | Ricercatrice              |
 
 
+# BACKGROUND
 
+# INTERESSI
 
+# PASSIONI
 
+# RELAZIONI
 
-
-
-
-
-Quota: “Ucciderò Dio, lo farò scrivendo della sua inesistenza, perchè alla fine lui non ha mai ascoltato nessuno”
+# QUOTE
+“Ucciderò Dio, lo farò scrivendo della sua inesistenza, perchè alla fine lui non ha mai ascoltato nessuno”
